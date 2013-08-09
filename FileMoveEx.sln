@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMoveEx", "ConsoleApplication2\FileMoveEx.csproj", "{7469AEB4-6DFC-4669-B928-6A1FE75526F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMoveEx", "FileMoveEx\FileMoveEx.csproj", "{7469AEB4-6DFC-4669-B928-6A1FE75526F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
