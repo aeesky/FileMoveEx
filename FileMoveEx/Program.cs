@@ -45,6 +45,7 @@ namespace FileMoveEx
             }
             else
             {
+                ShortcutHelper.CreateShortcut(Environment.GetFolderPath(Environment.SpecialFolder.SendTo), temp);
                 Console.WriteLine("本程序只能通过快捷方式运行");
                 Console.WriteLine("请在快捷方式属性窗口的目标栏中设置要移动到的目标文件夹");
                 Console.ReadKey();
